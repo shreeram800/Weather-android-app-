@@ -1,5 +1,5 @@
 # The WoW App 🌦️
-> Wow is an Android application that allows users to check the weather in different cities. The application uses data from the OpenWeatherMap API to display weather conditions.
+> The Wow (The Weather noW) is an Android application that allows users to check the weather in different cities. The application uses data from the OpenWeatherMap API to display weather conditions.
 <img src="wow_exsample.gif" alt="How the app works" height="400px" style="margin-right: 20px;">
 
 ## 🎯 Technologies Used
