@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WoW App</string>
+    <string name="hello_info">Hello, it\'s\nThe WoW</string>
+    <string name="hint_user_field">Enter city name</string>
+    <string name="main_button">Get weather</string>
+    <string name="not_valid_input">Enter text</string>
+    <string name="wait_message">Wait…</string>
+    <string name="error_not_found_city">City not found"</string>
+    <string name="error_not_have_info">"Sorry, information for your city not found"</string>
+</resources>
